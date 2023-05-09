@@ -13,7 +13,7 @@ it without changing it's functionality. We will create a new header with functio
     Using VS Code, we have created an updated web browswer for Horiseon consisting of a new header that shows three links to their main focus: Search Engine Optimization, Online Reputation Management and Social Media Marketing. By clicking each tab, you will automatically be directed to the description of said tab. 
 
 ## Credits 
-    UCLA Extension Coding Bootcamp
+
 
 ## Usage
     n/a
@@ -21,6 +21,5 @@ it without changing it's functionality. We will create a new header with functio
 ## Deployment
 
 
-[Link to Code, Style and ReadMe](https://github.com/em1nm)
 
 
